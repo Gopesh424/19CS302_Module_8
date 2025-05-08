@@ -90,10 +90,15 @@ difference
   
 ## OUTPUT: 
 Input 
+
 10 4
+
 4.0 2.0
+
 Output 
+
 14 6
+
 6.0 2.0
  
  
