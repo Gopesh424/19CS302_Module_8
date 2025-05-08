@@ -35,6 +35,7 @@ forty one
 
 
 ## PROGRAM:
+```
 #include <stdio.h>
 
 int main() {
@@ -59,7 +60,7 @@ int main() {
 
     return 0;
 }
-
+```
 ## OUTPUT:
 42
 forty two
