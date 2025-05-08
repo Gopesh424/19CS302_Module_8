@@ -168,7 +168,9 @@ int main() {
 
 ## OUTPUT:
 2    ab cd
+
 ab cd
+
 ab cd
 
 ## RESULT:
