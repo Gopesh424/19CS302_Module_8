@@ -19,7 +19,8 @@ The required output is: Hello, Saveetha! C Programming
 6. Print out the answer. 
 7. End. 
  
- ## PROGRAM: 
+ ## PROGRAM:
+ ```
 #include<stdio.h> 
 int main() 
 { 
