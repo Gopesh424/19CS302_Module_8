@@ -28,7 +28,7 @@ char a[20];
 scanf("%[^\n]",a); 
 printf("Hello, Saveetha!\n%s",a); 
 } 
-   
+```
  ## OUTPUT: 
 C Programming
 
